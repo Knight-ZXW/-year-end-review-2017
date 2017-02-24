@@ -13,4 +13,4 @@ a idea form a TED share talk . here is websit http://open.163.com/movie/2016/12/
 
 
 ## 算法
-明天列出目标
+1. [x] 插入排序
